@@ -9,4 +9,5 @@ This is an attempt to classifying miRNA sequences from different species.
   - GC Content
   - zCurve 
 - EDA conclusion:
-  - Data is highly overlapping
+  - kmers features are not informative, they are leading to high overlaps among two species.
+  - Additional features require (Motifs)
